@@ -1,2 +1,2 @@
 # codigojl
-Código en vivo para compartir
+Autor del codigo: https://github.com/jlochoa
